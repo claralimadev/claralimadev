@@ -1,35 +1,44 @@
-# Oi, eu sou a Ana Clara 👩‍💻
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora+Frontend;Angular+%2B+TypeScript+%2B+SCSS;Foco+em+acessibilidade;Automa%C3%A7%C3%A3o+industrial+%2B+web&font=Fira+Code&size=26&duration=2800&pause=1200&color=b45309&center=true&vCenter=true&width=620&height=70" alt="Desenvolvedora Frontend — Angular e TypeScript, foco em acessibilidade" />
+</p>
 
-Desenvolvedora frontend em formação — estudante de **Engenharia de Software** na UniAteneu e técnica em **Mecatrônica** pelo SENAI. Trabalho com **Angular, TypeScript e SCSS** e tenho um carinho especial por interfaces acessíveis, que pensam em quem vai usar de verdade.
+## Sobre mim 🧡
 
-Minha base veio da automação e do hardware, então costumo entender o problema inteiro antes de escrever a primeira linha de código — e isso se reflete em entregas mais sólidas.
+Sou **Ana Clara**, estudante de **Engenharia de Software** pela UniAteneu e técnica em **Mecatrônica** pelo SENAI. Minha trajetória começou nos painéis e sensores da automação industrial e hoje essa energia está voltada para o **desenvolvimento frontend** — principalmente **Angular, TypeScript e SCSS**.
+
+Gosto de entender o problema inteiro antes de codar: o que quem usa precisa, como o dado chega e onde a interface pode atrapalhar em vez de ajudar. Por isso acessibilidade não é um extra nos meus projetos — é parte do produto. Também participei do **Hackathon Proenergia Summit 2026**, onde esse olhar de produto foi levado na prática.
 
 ---
 
-## 👇 O que você encontra aqui
+## Projetos 🚀
 
-Dois projetos reais, publicados e no ar — nada de repositório esquecido ou "hello world".
+Dois projetos reais, publicados e funcionando — nada de repositório esquecido ou "hello world".
 
 ### Pokédex Interativa — Angular 🎯
-Um app completo consumindo a **PokéAPI**, construído aos poucos durante uma mentoria. Não é só tela bonita: tem **busca global**, **filtros por tipo/geração/região**, **favoritos**, **comparação entre Pokémon**, **quiz** e tradução **PT/EN/ES**.
 
-**O que ele demonstra sobre mim:**
-- Consumo de API com Signals e RxJS, com estados de loading e erro tratados
-- Responsividade mobile-first (celular, tablet e desktop)
-- Acessibilidade: navegação por teclado, contraste, VLibras e `prefers-reduced-motion`
-- Testes unitários com Vitest
-- Deploy contínuo via GitHub Actions + GitHub Pages
+App completo consumindo a **PokéAPI**, construído aos poucos durante uma mentoria. Além da lista e do card bonito, tem **busca global**, **filtros por tipo/geração/região**, **favoritos**, **comparação entre Pokémon**, **quiz** e tradução **PT/EN/ES**.
+
+O que ele demonstra sobre mim:
+
+- Consumo de API com **Signals** e **RxJS**, com loading e erro tratados
+- **Responsividade mobile-first** (celular, tablet e desktop)
+- Acessibilidade: navegação por teclado, contraste, **VLibras** e `prefers-reduced-motion`
+- **Testes unitários** com Vitest
+- **Deploy contínuo** via GitHub Actions + GitHub Pages
 
 🔗 [claralimadev.github.io/pokedex-app](https://claralimadev.github.io/pokedex-app/) — **pronto e no ar**, com ajustes contínuos de UX.
 
+---
+
 ### Currículo Digital — Angular 📄
-Meu currículo em formato de site: trajetória, formação, habilidades e projetos. Inclui leitura por voz embutida, porque acessibilidade faz parte do produto, não é um extra.
+
+Meu currículo em formato de site: trajetória, formação, habilidades e projetos. Inclui **leitura por voz**, porque acessibilidade faz parte do produto de verdade.
 
 🔗 [claralimadev.github.io/curriculo-ana](https://claralimadev.github.io/curriculo-ana/) — **concluído**.
 
 ---
 
-## 🛠️ Stack
+## Habilidades 🛠️
 
 | Área | O que uso |
 |---|---|
@@ -39,20 +48,14 @@ Meu currículo em formato de site: trajetória, formação, habilidades e projet
 | Deploy | Git, GitHub Actions, GitHub Pages |
 | Acessibilidade | VLibras, navegação por teclado, contraste, `prefers-reduced-motion` |
 
-Também tenho base sólida em **automação industrial** (CLP/Ladder, SCADA, Arduino/C++, CAD). Juntar esse mundo com a web é o meu próximo desafio — vai render um projeto aqui no perfil em breve.
+Da automação industrial, carrego uma base sólida em **CLP/Ladder, SCADA, Arduino/C++ e CAD**. Juntar esse mundo com a web é o próximo desafio — em breve sai um projeto aqui no perfil.
 
 ---
 
-## 🚀 Onde estou indo
+## Onde me encontrar 📬
 
-Estou aprofundando Angular (componentes standalone, signals, control flow, i18n) e **aberta a oportunidades e vagas em frontend**.
-
----
-
-## 📫 Contato
-
-- **GitHub** — github.com/claralimadev
-- **LinkedIn** — linkedin.com/in/ana-clara-lima-2a3798331
+- **GitHub** — [github.com/claralimadev](https://github.com/claralimadev)
+- **LinkedIn** — [linkedin.com/in/ana-clara-lima-2a3798331](https://www.linkedin.com/in/ana-clara-lima-2a3798331/)
 - **E-mail** — anaclara.lr.dev@gmail.com
 
-Se você chegou até aqui, bora conversar? 😄
+Estou aprofundando Angular (standalone components, signals, control flow, i18n) e **aberta a oportunidades em frontend**. Se você chegou até aqui, bora conversar 😄
