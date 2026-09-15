@@ -1,52 +1,33 @@
-# 👩‍💻 Olá, eu sou a Ana Clara!
+# Oi, eu sou a Ana!
 
-Técnica em **Mecatrônica** (SENAI) e estudante de **Engenharia de Software** (UniAteneu). Gosto de construir interfaces **acessíveis, inclusivas e bonitas** — hoje com foco em **frontend (Angular + TypeScript)**.
+Faço Mecatrônica no **SENAI** e estou cursando **Engenharia de Software** na UniAteneu. Meu foco hoje é frontend — Angular e TypeScript — e uma coisa que eu levo a sério é acessibilidade: gosto de interface que muita gente consiga usar, e de preferência bonita também.
 
-> 🎯 **Onde estou agora:** aprofundando **Angular 22** (signals, control flow, acessibilidade e i18n) através de projetos com deploy real no GitHub Pages.
-
----
-
-## 📦 Meus projetos
-
-Aqui você vê **em que estágio** está cada parte — nada de repositório abandonado sem aviso. ✅ = concluído, 🚧 = em andamento, 📍 = planejado.
-
-| Projeto | Estágio | Deploy | O que é |
-|---|---|---|---|
-| [**pokedex-app**](https://github.com/claralimadev/pokedex-app) | ✅ **v1.0 concluída** · em manutenção contínua | [🔗 ao vivo](https://claralimadev.github.io/pokedex-app/) | Pokédex interativa em Angular 22 consumindo a PokéAPI: busca global, filtros por tipo/geração/região, favoritos, comparação ⚔️, quiz 🎮, i18n 🇧🇷🇺🇸🇪🇸 e acessibilidade (VLibras). |
-| [**curriculo-ana**](https://github.com/claralimadev/curriculo-ana) | ✅ **concluído** | [🔗 ao vivo](https://claralimadev.github.io/curriculo-ana/) | Meu currículo digital interativo em Angular: trajetória, skills, projetos e experiência, com podcast 🎙️ que lê o conteúdo (acessibilidade). |
-
-### O que foi entregue em cada um
-
-**🎯 pokedex-app** — todas as funcionalidades já estão **funcionando e publicadas**:
-- ✅ Grid responsivo + busca por nome/ID (inclusive fora da lista carregada)
-- ✅ Filtros por tipo, geração I-IX e região
-- ✅ Favoritos ⚡ persistidos e comparação ⚔️ VS com vencedor 🏆
-- ✅ Minigame **"Quem é esse Pokémon?"** 🎮 com 3 vidas e recorde
-- ✅ Modal de detalhes (stats, lore, linha evolutiva)
-- ✅ Tema claro 🌗/escuro, i18n PT/EN/ES e VLibras 🧏‍♀️
-- 🚧 **Em andamento:** ajustes finos de UX mobile
-
-**📄 curriculo-ana** — linha do tempo, formação (SENAI, UniAteneu, Hackathon Proenergia Summit 2026), projetos com status e contato.
-
-### 📍 Próximos passos
-- Evoluir a Pokédex com testes de integração e novas regiões
-- Novos projetos em Angular (apps de automação/SCADA) 💡
+Comecei pelo lado de hardware e automação, então ainda tenho o hábito de querer entender como as coisas funcionam por baixo (e isso ajuda demais na hora de programar).
 
 ---
 
-## 🛠️ Stack que estou praticando
+## Projetos
 
-- **Frontend:** Angular 22, TypeScript, SCSS
-- **Conceitos:** signals, control flow `@if/@for`, i18n, acessibilidade (teclado, contraste, VLibras, `prefers-reduced-motion`)
-- **Ferramentas:** Git & GitHub, GitHub Actions + Pages, Vitest
-- **Do SENAI (técnico):** automação industrial, Arduino/C++, CLP/Ladder, SCADA, CAD (Inventor)
+### Pokédex — no ar, em ajustes
+Uma Pokédex inteira em Angular consumindo a PokéAPI, construída aos poucos numa mentoria. Está publicada e funcionando: busca global, filtros por tipo/geração/região, favoritos, comparação entre Pokémon, um quiz de "quem é esse Pokémon?" e os três idiomas (PT/EN/ES). De vez em quando ainda mexo em detalhes de UX no celular.
+
+[https://claralimadev.github.io/pokedex-app/](https://claralimadev.github.io/pokedex-app/)
+
+### Currículo digital — pronto
+Meu currículo em formato de site, com trajetória, projetos, habilidades e contato. Tem até um podcast que lê a página em voz alta — acessibilidade nunca é demais.
+
+[https://claralimadev.github.io/curriculo-ana/](https://claralimadev.github.io/curriculo-ana/)
 
 ---
 
-## 📫 Contato
+## O que estou fazendo agora
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/claralimadev) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anaclara.lr.dev@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-lima-2a3798331/)
+Aprofundando Angular (signals, control flow, i18n) e, em paralelo, ainda mantenho um pé na automação industrial do SENAI. O próximo plano é um projeto que junte esse lado mais de hardware com web — algo de automação ou supervisão numa interface boa de usar.
 
 ---
 
-*Feito com 💙 por Ana Clara — projeto de estudo/mentoria. Acompanhe a Pokédex sendo construída e os próximos desafios aqui no perfil.*
+## Por onde me achar
+
+- [GitHub](https://github.com/claralimadev)
+- [LinkedIn](https://www.linkedin.com/in/ana-clara-lima-2a3798331/)
+- E-mail: anaclara.lr.dev@gmail.com
