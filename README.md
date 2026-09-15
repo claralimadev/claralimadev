@@ -6,7 +6,7 @@
 
     1) BANNER  -> imagem animada no topo (arquivo profile-header.svg)
     2) SOBRE MIM
-    3) PROJETOS (2 projetos reais, com o que cada um demonstra)
+    3) PROJETOS (2 projetos reais, sucinto, detalhes ficam no README de cada repo)
     4) HABILIDADES
     5) ONDE ME ENCONTRAR
 
@@ -36,30 +36,22 @@ Gosto de entender o problema inteiro antes de codar: o que quem usa precisa, com
 
 ## Projetos 🚀
 
-Dois projetos reais, publicados e funcionando — nada de repositório esquecido ou "hello world".
+Dois projetos em Angular, publicados e no ar:
 
-<!-- 3.1 PROJETO 1 -->
+<!-- 3.1 PROJETO 1 (detalhes técnicos no README do repositório) -->
 ### Pokédex Interativa — Angular 🎯
 
-App completo consumindo a **PokéAPI**, construído aos poucos durante uma mentoria. Além da lista e do card bonito, tem **busca global**, **filtros por tipo/geração/região**, **favoritos**, **comparação entre Pokémon**, **quiz** e tradução **PT/EN/ES**.
+Pokédex completa consumindo a **PokéAPI**: busca global, filtros por tipo/geração/região, favoritos, comparação ⚔️, quiz e i18n PT/EN/ES.
 
-O que ele demonstra sobre mim:
-
-- Consumo de API com **Signals** e **RxJS**, com loading e erro tratados
-- **Responsividade mobile-first** (celular, tablet e desktop)
-- Acessibilidade: navegação por teclado, contraste, **VLibras** e `prefers-reduced-motion`
-- **Testes unitários** com Vitest
-- **Deploy contínuo** via GitHub Actions + GitHub Pages
-
-🔗 [claralimadev.github.io/pokedex-app](https://claralimadev.github.io/pokedex-app/) — **pronto e no ar**, com ajustes contínuos de UX.
+🔗 [claralimadev.github.io/pokedex-app](https://claralimadev.github.io/pokedex-app/) — no ar, com ajustes contínuos de UX.
 
 ---
 <!-- 3.2 PROJETO 2 -->
 ### Currículo Digital — Angular 📄
 
-Meu currículo em formato de site: trajetória, formação, habilidades e projetos. Inclui **leitura por voz**, porque acessibilidade faz parte do produto de verdade.
+Meu currículo em formato de site: trajetória, formação, habilidades e projetos, com leitura por voz.
 
-🔗 [claralimadev.github.io/curriculo-ana](https://claralimadev.github.io/curriculo-ana/) — **concluído**.
+🔗 [claralimadev.github.io/curriculo-ana](https://claralimadev.github.io/curriculo-ana/) — concluído.
 
 ---
 <!-- ============================================================== 4. HABILIDADES -->
