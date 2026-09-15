@@ -58,7 +58,7 @@ Meu currículo em formato de site: trajetória, formação, habilidades e projet
 
 ## Habilidades 🛠️
 
-**Linguagens que já tive contato:**
+**Linguagens (programação) que já tive contato:**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -78,6 +78,7 @@ Meu currículo em formato de site: trajetória, formação, habilidades e projet
 | Deploy | Git, GitHub Actions, GitHub Pages |
 | Acessibilidade | VLibras, navegação por teclado, contraste, `prefers-reduced-motion` |
 | Hardware & Automação | Arduino/C++, CLP/Ladder, SCADA, CAD (Inventor) |
+| Idiomas | Português (nativo) · Inglês (curso em andamento) |
 
 Da automação industrial, carrego uma base sólida em **CLP/Ladder, SCADA, Arduino/C++ e CAD**. Juntar esse mundo com a web é o próximo desafio — em breve sai um projeto aqui no perfil.
 
