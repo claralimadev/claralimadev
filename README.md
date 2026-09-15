@@ -7,7 +7,7 @@
     1) BANNER  -> imagem animada no topo (arquivo profile-header.svg)
     2) SOBRE MIM
     3) PROJETOS (2 projetos reais, sucinto, detalhes ficam no README de cada repo)
-    4) HABILIDADES
+    4) HABILIDADES (linguagens + stack)
     5) ONDE ME ENCONTRAR
 
   COMO EDITAR
@@ -58,6 +58,18 @@ Meu currículo em formato de site: trajetória, formação, habilidades e projet
 
 ## Habilidades 🛠️
 
+**Linguagens que já tive contato:**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+**Stack & ferramentas:**
+
 | Área | O que uso |
 |---|---|
 | Frontend | Angular 22, TypeScript, SCSS, HTML semântico |
@@ -65,6 +77,7 @@ Meu currículo em formato de site: trajetória, formação, habilidades e projet
 | Qualidade | Vitest, testes unitários, Prettier |
 | Deploy | Git, GitHub Actions, GitHub Pages |
 | Acessibilidade | VLibras, navegação por teclado, contraste, `prefers-reduced-motion` |
+| Hardware & Automação | Arduino/C++, CLP/Ladder, SCADA, CAD (Inventor) |
 
 Da automação industrial, carrego uma base sólida em **CLP/Ladder, SCADA, Arduino/C++ e CAD**. Juntar esse mundo com a web é o próximo desafio — em breve sai um projeto aqui no perfil.
 
