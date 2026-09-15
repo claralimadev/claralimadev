@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/claralimadev/claralimadev/main/profile-header.svg" width="100%" alt="Ana Clara — Desenvolvedora Frontend, foco em acessibilidade" />
 </p>
 
-## Sobre mim 🧡
+## Sobre mim 💜
 
 Sou **Ana Clara**, estudante de **Engenharia de Software** pela UniAteneu e técnica em **Mecatrônica** pelo SENAI. Minha trajetória começou nos painéis e sensores da automação industrial e hoje essa energia está voltada para o **desenvolvimento frontend** — principalmente **Angular, TypeScript e SCSS**.
 
