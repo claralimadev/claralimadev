@@ -21,25 +21,25 @@
     Ana Clara
   </text>
 
-  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#c4b5fd">
+  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#fbbf24">
     Desenvolvedora Frontend
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02083;0.07083;0.21667;0.27083;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60;-60" keyTimes="0;0.02083;0.07083;0.21667;0.27083;1" dur="24s" repeatCount="indefinite"/>
   </text>
 
-  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#c4b5fd">
+  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#fbbf24">
     Angular · TypeScript · SCSS
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.27083;0.32083;0.475;0.52083;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60;-60" keyTimes="0;0.27083;0.32083;0.475;0.52083;1" dur="24s" repeatCount="indefinite"/>
   </text>
 
-  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#c4b5fd">
+  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#fbbf24">
     Foco em acessibilidade
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.52083;0.57083;0.725;0.77083;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60;-60" keyTimes="0;0.52083;0.57083;0.725;0.77083;1" dur="24s" repeatCount="indefinite"/>
   </text>
 
-  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#c4b5fd">
+  <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#fbbf24">
     Automação industrial · web
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.77083;0.82083;0.975;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60" keyTimes="0;0.77083;0.82083;0.975;1" dur="24s" repeatCount="indefinite"/>
