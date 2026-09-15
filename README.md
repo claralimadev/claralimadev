@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedora+Frontend;Angular+%2B+TypeScript+%2B+SCSS;Foco+em+acessibilidade;Automa%C3%A7%C3%A3o+industrial+%2B+web&font=Fira+Code&size=26&duration=2800&pause=1200&color=b45309&center=true&vCenter=true&width=620&height=70" alt="Desenvolvedora Frontend — Angular e TypeScript, foco em acessibilidade" />
+  <img src="https://raw.githubusercontent.com/claralimadev/claralimadev/main/profile-header.svg" width="100%" alt="Ana Clara — Desenvolvedora Frontend, foco em acessibilidade" />
 </p>
 
 ## Sobre mim 🧡
