@@ -1,9 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-label="Ana Clara — Desenvolvedora Frontend">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-label="Ana Clara - Desenvolvedora Frontend">
+
+  <!--
+    ==============================================================
+    BANNER DO PERFIL - Ana Clara
+    ==============================================================
+    Estrutura do arquivo:
+      1) defs    -> gradientes (cores) usados no banner
+      2) rect    -> o plano de fundo escuro
+      3) text    -> NOME: sempre fixo em cima, com brilho deslizando
+      4) text    -> HABILIDADES 1 a 4: frases que entram em sequencia (~6s cada)
+
+    COMO AJUSTAR AS CORES
+      - Fundo escuro:  #1e293b (topo) -> #0f172a (base), no bloco "bgGrad"
+      - Nome (lilás claro, quase cinza):  #cfc1f0 e #b9a6e6, com a faixa
+        clara de brilho #faf7ff, no bloco "nameGrad"
+      - Frases das habilidades:  #a997d6 (lilás suave), em cada bloco HABILIDADE
+
+    COMO MEXER NO TEMPO (ritmo da animacao)
+      - O ciclo inteiro dura 24s, marcado em dur="24s", e nunca para
+        (repeatCount="indefinite").
+      - keyTimes = momentos do ciclo (0 = inicio, 1 = fim) dizendo quando
+        a frase fica escondida, entra, segura e sai.
+      - Para deixar tudo mais lento: aumente o "24s" e recalcule os
+        keyTimes (tempo desejado / 24).
+      - Para adicionar uma 5a frase: copie um bloco HABILIDADE, troque o
+        texto e distribua os keyTimes entre as janelas do ciclo.
+    ==============================================================
+  -->
+
   <defs>
+    <!-- Fundo escuro do banner -->
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1e293b"/>
       <stop offset="1" stop-color="#0f172a"/>
     </linearGradient>
+
+    <!--
+      NOME: lilás claro com uma faixa de brilho que desliza de um lado
+      ao outro (os <animate> movem o gradiente horizontalmente).
+    -->
     <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#cfc1f0"/>
       <stop offset="0.3" stop-color="#faf7ff"/>
@@ -15,30 +50,42 @@
     </linearGradient>
   </defs>
 
+  <!-- Planode fundo (a "placa" arredondada) -->
   <rect x="0" y="0" width="900" height="220" rx="18" fill="url(#bgGrad)" stroke="#334155" stroke-width="1.5"/>
 
+  <!--
+    NOME - sempre fixo.
+    Dica: font-size = tamanho, font-family = fonte, y = posicao vertical.
+  -->
   <text x="450" y="100" font-size="64" font-weight="700" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="url(#nameGrad)">
     Ana Clara
   </text>
 
+  <!--
+    HABILIDADE 1 - entra 1a, fica ~6s, sai deslizando para os lados.
+    Opacity controla o fade; transform (translate) controla o deslize.
+  -->
   <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#a997d6">
     Desenvolvedora Frontend
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02083;0.07083;0.21667;0.27083;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60;-60" keyTimes="0;0.02083;0.07083;0.21667;0.27083;1" dur="24s" repeatCount="indefinite"/>
   </text>
 
+  <!-- HABILIDADE 2 -->
   <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#a997d6">
     Angular · TypeScript · SCSS
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.27083;0.32083;0.475;0.52083;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60;-60" keyTimes="0;0.27083;0.32083;0.475;0.52083;1" dur="24s" repeatCount="indefinite"/>
   </text>
 
+  <!-- HABILIDADE 3 -->
   <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#a997d6">
     Foco em acessibilidade
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.52083;0.57083;0.725;0.77083;1" dur="24s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate" values="60;60;0;0;-60;-60" keyTimes="0;0.52083;0.57083;0.725;0.77083;1" dur="24s" repeatCount="indefinite"/>
   </text>
 
+  <!-- HABILIDADE 4 (a que fecha o ciclo) -->
   <text x="450" y="165" font-size="26" font-weight="400" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="#a997d6">
     Automação industrial · web
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.77083;0.82083;0.975;1" dur="24s" repeatCount="indefinite"/>
