@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/claralimadev/claralimadev/main/profile-header.svg?v=3" width="100%" alt="Ana Clara — Desenvolvedora Frontend, foco em acessibilidade" />
+  <img src="https://raw.githubusercontent.com/claralimadev/claralimadev/main/profile-header.svg?v=4" width="100%" alt="Ana Clara — Desenvolvedora Frontend, foco em acessibilidade" />
 </p>
 
 ## Sobre mim 💜
