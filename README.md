@@ -36,7 +36,7 @@ Gosto de entender o problema inteiro antes de codar: o que quem usa precisa, com
 
 ## Projetos 🚀
 
-Dois projetos em Angular, publicados e no ar:
+Projetos reais, no ar ou no dia a dia:
 
 <!-- 3.1 PROJETO 1 (detalhes técnicos no README do repositório) -->
 ### Pokédex Interativa — Angular 🎯
@@ -52,6 +52,14 @@ Pokédex completa consumindo a **PokéAPI**: busca global, filtros por tipo/gera
 Meu currículo em formato de site: trajetória, formação, habilidades e projetos, com leitura por voz.
 
 🔗 [claralimadev.github.io/curriculo-ana](https://claralimadev.github.io/curriculo-ana/) — concluído.
+
+---
+<!-- 3.3 PROJETO 3 -->
+### Judy — Agente DEV/PO pessoal 🎬
+
+Um agente de IA que programa, revisa e ensina com a cara da Judy Alvarez (Cyberpunk 2077): papo seco, semáforo de relevância 🟢🟡🔴🔵, evidência antes de opinião e memória por projeto. Corre dentro do OpenCode, em qualquer pasta.
+
+🔗 [github.com/claralimadev/personal-agent](https://github.com/claralimadev/personal-agent) — o agente e seu caderno de evals, em evolução.
 
 ---
 <!-- ============================================================== 4. HABILIDADES -->
