@@ -6,7 +6,7 @@
 
     1) BANNER  -> imagem animada no topo (arquivo profile-header.svg)
     2) SOBRE MIM
-    3) PROJETOS (2 projetos reais, sucinto, detalhes ficam no README de cada repo)
+    3) PROJETOS (3 projetos reais, sucinto, detalhes ficam no README de cada repo)
     4) HABILIDADES (linguagens + stack)
     5) ONDE ME ENCONTRAR
 
@@ -25,7 +25,7 @@
 </p>
 
 <!-- ============================================================== 2. SOBRE MIM -->
-## Sobre mim 💜
+## Sobre mim
 
 Sou **Ana Clara**, estudante de **Engenharia de Software** pela UniAteneu e técnica em **Mecatrônica** pelo SENAI. Minha trajetória começou nos painéis e sensores da automação industrial e hoje essa energia está voltada para o **desenvolvimento frontend** — principalmente **Angular, TypeScript e SCSS**.
 
@@ -34,37 +34,37 @@ Gosto de entender o problema inteiro antes de codar: o que quem usa precisa, com
 ---
 <!-- ============================================================== 3. PROJETOS -->
 
-## Projetos 🚀
+## Projetos
 
 Projetos reais, no ar ou no dia a dia:
 
 <!-- 3.1 PROJETO 1 (detalhes técnicos no README do repositório) -->
-### Pokédex Interativa — Angular 🎯
+### Pokédex Interativa — Angular
 
-Pokédex completa consumindo a **PokéAPI**: busca global, filtros por tipo/geração/região, favoritos, comparação ⚔️, quiz e i18n PT/EN/ES.
+Pokédex completa consumindo a **PokéAPI**: busca global, filtros por tipo/geração/região, favoritos, comparação, quiz e i18n PT/EN/ES.
 
-🔗 [claralimadev.github.io/pokedex-app](https://claralimadev.github.io/pokedex-app/) — no ar, com ajustes contínuos de UX.
+[claralimadev.github.io/pokedex-app](https://claralimadev.github.io/pokedex-app/) — no ar, com ajustes contínuos de UX.
 
 ---
 <!-- 3.2 PROJETO 2 -->
-### Currículo Digital — Angular 📄
+### Currículo Digital — Angular
 
 Meu currículo em formato de site: trajetória, formação, habilidades e projetos, com leitura por voz.
 
-🔗 [claralimadev.github.io/curriculo-ana](https://claralimadev.github.io/curriculo-ana/) — concluído.
+[claralimadev.github.io/curriculo-ana](https://claralimadev.github.io/curriculo-ana/) — concluído.
 
 ---
 <!-- 3.3 PROJETO 3 -->
-### Judy — Agente DEV/PO pessoal 🎬
+### Judy — Agente DEV/PO pessoal
 
-Um agente de IA que programa, revisa e ensina com a cara da Judy Alvarez (Cyberpunk 2077): papo seco, semáforo de relevância 🟢🟡🔴🔵, evidência antes de opinião e memória por projeto. Corre dentro do OpenCode, em qualquer pasta.
+Um agente de IA que programa, revisa e ensina com a cara da Judy Alvarez (Cyberpunk 2077): papo seco, semáforo de relevância baixa/média/alta/máxima, evidência antes de opinião e memória por projeto. Corre dentro do OpenCode, em qualquer pasta.
 
-🔗 [github.com/claralimadev/personal-agent](https://github.com/claralimadev/personal-agent) — o agente e seu caderno de evals, em evolução.
+[github.com/claralimadev/personal-agent](https://github.com/claralimadev/personal-agent) — o agente e seu caderno de evals, em evolução.
 
 ---
 <!-- ============================================================== 4. HABILIDADES -->
 
-## Habilidades 🛠️
+## Habilidades
 
 **Linguagens (programação) que já tive contato:**
 
@@ -93,10 +93,10 @@ Da automação industrial, carrego uma base sólida em **CLP/Ladder, SCADA, Ardu
 ---
 <!-- ============================================================== 5. ONDE ME ENCONTRAR -->
 
-## Onde me encontrar 📬
+## Onde me encontrar
 
 - **GitHub** — [github.com/claralimadev](https://github.com/claralimadev)
 - **LinkedIn** — [linkedin.com/in/ana-clara-lima-2a3798331](https://www.linkedin.com/in/ana-clara-lima-2a3798331/)
 - **E-mail** — anaclara.lr.dev@gmail.com
 
-Estou aprofundando Angular (standalone components, signals, control flow, i18n) e **aberta a oportunidades em frontend**. Se você chegou até aqui, bora conversar 😄
+Estou aprofundando Angular (standalone components, signals, control flow, i18n) e **aberta a oportunidades em frontend**. Se você chegou até aqui, bora conversar.
