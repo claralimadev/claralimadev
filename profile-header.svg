@@ -58,7 +58,7 @@
     Dica: font-size = tamanho, font-family = fonte, y = posicao vertical.
   -->
   <text x="450" y="100" font-size="64" font-weight="700" text-anchor="middle" font-family="Poppins, 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" fill="url(#nameGrad)">
-    Ana Clara
+Ana Clara Lima
   </text>
 
   <!--
