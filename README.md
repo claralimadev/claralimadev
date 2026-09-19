@@ -21,7 +21,7 @@
 
 <!-- ============================================================== 1. BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/claralimadev/claralimadev/f3ca62923fab22f11ba1287f845ae13f1bc7b298/profile-header.svg" width="100%" alt="Ana Clara - Desenvolvedora Frontend, foco em acessibilidade" />
+  <img src="https://raw.githubusercontent.com/claralimadev/claralimadev/d5d276f9cccaf4cb1e42861a6b6b4da4fe5e8ba0/profile-header.svg" width="100%" alt="Ana Clara - Desenvolvedora Frontend, foco em acessibilidade" />
 </p>
 
 <!-- ============================================================== 2. SOBRE MIM -->
